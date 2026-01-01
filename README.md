@@ -11,6 +11,10 @@ This is my digital garden for programming knowledge. I add notes, debug a tricky
 
 - Tech focus: [ Python 🐍, JavaScript ⚡, etc.] – anything coding-related goes!
 
+- Tutorials: For tutorials and educational videos about programming
+
+- :computer: visit http://bit.ly/49cTSNy
+
 
 
 
