@@ -1,5 +1,6 @@
 # code-cutie-learning-journal
 
+<img src="Code_Cutie_Logo.png" alt="Code Cutie Logo" width="100%"/>
 
 
 ## 🚀 About This Repo
