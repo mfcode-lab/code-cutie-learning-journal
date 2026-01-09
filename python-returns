@@ -2,3 +2,25 @@
 
 # MAIN POINTS 
 
+
+
+## STRING METHODS TO REVIEW 
+
+.upper()
+
+.title()
+    
+.lower()
+    
+.split()
+    
+.join() 
+
+.strip()
+    
+.replace()
+    
+.find()
+
+.format()
+    
