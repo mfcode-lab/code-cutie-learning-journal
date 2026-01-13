@@ -2,3 +2,20 @@
 It's a type of substitution cipher where each letter in the plaintext (the original message) is replaced by another letter a fixed number of positions down or up the alphabet. 
 This fixed number is called the "shift" or "key."
 
+
+
+
+
+🕵🏻‍♀️ 1. HOW CAN WE FIGURE OUT THE EQUIVALENT LETTER FOR EACH SHIFT/KEY? 
+
+
+
+🕵🏻‍♀️ 2. IF THE SHIFT/KEY NUMBER IS NOT GIVEN HOW CAN WE FIND IT? 
+
+    :::: A) Brute Force: Try All 25 Possible Shifts
+
+    :::: B) Frequency Analysis: Use Letter Statistics (Smarter for Longer Texts)
+
+
+
+
